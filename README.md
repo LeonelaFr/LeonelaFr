@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src:"https://es.pngtree.com/freepng/cartoon-snail-loading-gif-dynamic-diagram_6992584.html">
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!--
 **LeonelaFr/LeonelaFr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
