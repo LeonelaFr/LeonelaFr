@@ -1,6 +1,13 @@
 
 <h2> Hi, I'm Leonela! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVpNGtodGRwczM5cW95Y2poaGh4aG41b3ZidXZxMGIwZGdnOTBrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MXWKGBx2OlXzRXhZI1/giphy.gif" width="50"></h2>
 <p>I am a student in the Higher Technician Program in Software Development</p>
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; NodeJs | C#| MySQL
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | 
 
 <!--
 **LeonelaFr/LeonelaFr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
