@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/kz64C06r8GDBu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/alice-in-wonderland-kz64C06r8GDBu">via GIPHY</a></p>
+<h2>Hi i'm Leonela </h2>
 
 <!--
 **LeonelaFr/LeonelaFr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
